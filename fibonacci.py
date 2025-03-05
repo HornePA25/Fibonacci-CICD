@@ -1,4 +1,5 @@
 def calculate_fibonacci(n):
+	print("Calculating Fibonacci sequence...")
 	if n <= 0:
 		return []
 	elif n == 1:
